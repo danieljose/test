@@ -1,1 +1,1 @@
-Test
+Process a PGN file with evaluations (typical output from cutechess-cli), to show the count of positive and negative evaluations for each engine that are positive and negative also for the rival engine.
