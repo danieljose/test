@@ -18,7 +18,7 @@ int add_engine(string s) {
 		return numengines - 1;
 	}
 	else
-		return ps - engines;
+		return ps - engines; 
 }
 
 int main(int argc, char* argv[])
